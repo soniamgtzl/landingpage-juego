@@ -98,8 +98,11 @@ body main #principal #participa #video-j{
   width: 30%;
   height: 90%;
   margin: 0px auto;
-  background-color: green;
+  background-image: url("img/goup.jpg");
+  background-size: 90%;
+  background-position: center;
 }
+
 /********************************************
 Contacto*/
 body main #contacto{
@@ -134,6 +137,9 @@ body main #terminos-c{
   padding: 1%;
   align-self: flex-start;
   background-color: rgba(0, 0, 0, 0.3);
+}
+body main #terminos-c p{
+  text-align: center;
 }
 /*****************************************************************
 Responsive*/
