@@ -221,9 +221,6 @@ Responsive*/
     width: 75%;
     margin-left: 25%;
   }
-  body main #terminos-c{
-    height: 80%;
-  }
 }
 @media all and (max-width:450px){
   body main{
@@ -239,9 +236,5 @@ Responsive*/
   body main #principal #participa #video-j{
     width: 100%;
     height: 40%;
-  }
-  body main #terminos-c{
-    height: 100%;
-    text-align: center;
   }
 }
